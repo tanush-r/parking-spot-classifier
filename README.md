@@ -24,7 +24,7 @@ sets/
 3. Run the notebook using Jupyter/VS Code
 
 ## Pipeline
-
+![pipeline](pipeline.png)
 1. **Preprocessing**: 
    - Converts input images to grayscale
    - Applies Gaussian blur (5×5 kernel) for noise reduction
